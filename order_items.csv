@@ -1,0 +1,33 @@
+order_id,item_id,item_name,quantity,unit_price
+O001,M001,Garlic Bread,1,4.50
+O002,M002,Caesar Salad,2,7.50
+O003,M003,Tomato Soup,3,6.50
+O004,M004,Bruschetta,1,7.50
+O005,M005,Spring Rolls,2,5.00
+O006,M006,Margherita Pizza,3,13.00
+O007,M007,Grilled Chicken,1,16.00
+O008,M008,Beef Burger,2,15.00
+O009,M010,Fish and Chips,3,15.00
+O010,M011,French Fries,1,5.00
+O011,M012,Steamed Rice,2,5.00
+O012,M013,Mashed Potatoes,3,4.25
+O013,M014,Tiramisu,1,7.00
+O014,M015,Cheesecake,2,7.75
+O015,M016,Lemonade,3,5.00
+O016,M017,Iced Tea,1,3.25
+O017,M019,Garlic Bread #2,2,5.50
+O018,M020,Caesar Salad #2,3,8.50
+O019,M021,Tomato Soup #2,1,5.50
+O020,M022,Bruschetta #2,2,6.50
+O021,M023,Spring Rolls #2,3,6.00
+O022,M024,Margherita Pizza #2,1,14.00
+O023,M025,Grilled Chicken #2,2,15.00
+O024,M026,Beef Burger #2,3,14.00
+O025,M028,Fish and Chips #2,1,16.00
+O026,M029,French Fries #2,2,4.00
+O027,M030,Steamed Rice #2,3,4.00
+O028,M031,Mashed Potatoes #2,1,5.25
+O029,M032,Tiramisu #2,2,8.00
+O030,M033,Cheesecake #2,3,6.75
+O031,M034,Lemonade #2,1,4.00
+O032,M035,Iced Tea #2,2,4.25

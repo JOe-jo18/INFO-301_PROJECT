@@ -1,0 +1,35 @@
+item_id,name,category,price,available
+M001,Burger Bread,Starter,2.17,Yes
+M002,Caesar Salad,Starter,7.50,Yes
+M003,Tomato Soup,Starter,6.50,Yes
+M004,Bruschetta,Starter,7.50,Yes
+M005,Spring Rolls,Starter,5.00,Yes
+M006,Margherita Pizza,Main,13.00,Yes
+M007,Grilled Chicken,Main,16.00,Yes
+M008,Beef Burger,Main,15.00,Yes
+M009,Pasta Alfredo,Main,14.00,No
+M010,Fish and Chips,Main,15.00,Yes
+M011,French Fries,Side,5.00,Yes
+M012,Steamed Rice,Side,5.00,Yes
+M013,Mashed Potatoes,Side,4.25,Yes
+M014,Tiramisu,Dessert,7.00,Yes
+M015,Cheesecake,Dessert,7.75,Yes
+M016,Lemonade,Drink,5.00,Yes
+M017,Iced Tea,Drink,3.25,Yes
+M018,Espresso,Drink,3.50,No
+M019,Garlic Bread #2,Starter,5.50,Yes
+M020,Caesar Salad #2,Starter,8.50,Yes
+M021,Tomato Soup #2,Starter,5.50,Yes
+M022,Bruschetta #2,Starter,6.50,Yes
+M023,Spring Rolls #2,Starter,6.00,Yes
+M024,Margherita Pizza #2,Main,14.00,Yes
+M025,Grilled Chicken #2,Main,15.00,Yes
+M026,Beef Burger #2,Main,14.00,Yes
+M027,Pasta Alfredo #2,Main,15.00,No
+M028,Fish and Chips #2,Main,16.00,Yes
+M029,French Fries #2,Side,4.00,Yes
+M030,Steamed Rice #2,Side,4.00,Yes
+M031,Mashed Potatoes #2,Side,5.25,Yes
+M032,Tiramisu #2,Dessert,8.00,Yes
+M034,Lemonade #2,Drink,4.00,Yes
+M035,Iced Tea #2,Drink,4.25,Yes
